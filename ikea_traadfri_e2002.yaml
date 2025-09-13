@@ -23,7 +23,7 @@
 #   - (38.222, 52.941) # default
 
 blueprint:
-  source_url: https://github.com/tr4x1s/home-assistant/ikea_traadfri_e2002.yaml
+  source_url: https://github.com/tr4x1s/home-assistant/blob/main/ikea_traadfri_e2002.yaml
 
   name: ZHA - IKEA TRADFRI - 5 Button Remote - Preset Colors tr4x1s
 
